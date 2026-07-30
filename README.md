@@ -445,9 +445,13 @@ The company should not distribute an executable built on an unreviewed
 workstation. See [SECURITY.md](SECURITY.md) for the required internal review,
 build, malware scanning, signing, and deployment process.
 
-The repository uses a restrictive internal-use [LICENSE](LICENSE) notice. The
-owning organization should replace it with approved legal terms before any
-external distribution.
+## License
+
+This project is free software licensed under the
+[GNU General Public License version 3](LICENSE) (`GPL-3.0-only`). It may be
+used, studied, modified, and redistributed subject to the GPLv3 terms. The
+licence does not replace the company's source review, controlled build,
+malware scanning, signing, or deployment requirements.
 
 ## Known limitations
 
